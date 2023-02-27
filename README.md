@@ -1,6 +1,6 @@
 # Azure DICOM RESTapi and Viewer (C# samples)
 
-This project is a sample of an Azure DICOM Client and C# Viewer. It provides a basic example of how to create a REST calls for DICOM images and how to create a C# Viewer to display them.
+This project is a sample of an Azure DICOM Client and C# Viewer. It provides a basic example of how to create a REST calls for Azure DICOM and how to create a C# Viewer to display them.
 
 ## Requirements
 
